@@ -1,0 +1,4 @@
+﻿  auxiliary_function.c
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW1\HW1\Father\auxiliary_function.c(15,17): warning C4273: '_errno': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stddef.h(31,27): message : see previous definition of '_errno'
+  Father.vcxproj -> C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW1\HW1\Debug\Father.exe
